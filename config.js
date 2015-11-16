@@ -19,7 +19,7 @@ System.config({
     "babel-runtime": "npm:babel-runtime@5.8.29",
     "coffee": "github:forresto/system-coffee@0.1.2",
     "core-js": "npm:core-js@0.9.18",
-    "jussiry/jsonHtml": "github:jussiry/jsonHtml@master",
+    "jussiry/jsonHtml": "github:jussiry/jsonHtml@0.1.0",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
@@ -28,6 +28,9 @@ System.config({
     },
     "github:jspm/nodelibs-util@0.1.0": {
       "util": "npm:util@0.10.3"
+    },
+    "github:jussiry/jsonHtml@0.1.0": {
+      "coffee": "github:forresto/system-coffee@0.1.2"
     },
     "github:jussiry/jsonHtml@master": {
       "coffee": "github:forresto/system-coffee@0.1.2"
