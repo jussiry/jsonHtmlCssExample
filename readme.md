@@ -1,8 +1,4 @@
 
+Example on how to use jsonHtml and jsonCss
 
-## TODO
-
-- fix jspm loading
-- add jsonStyles
-- remove babel, etc. from dependencies (damn jspm install)
-- add git version tag?
+Just open the index.html in your browser.
