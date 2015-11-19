@@ -34,7 +34,8 @@ System.config({
       "coffee": "github:forresto/system-coffee@0.1.2"
     },
     "github:jussiry/jsonHtml@master": {
-      "coffee": "github:forresto/system-coffee@0.1.2"
+      "coffee": "github:forresto/system-coffee@0.1.2",
+      "jquery": "github:components/jquery@2.1.4"
     },
     "npm:assert@1.3.0": {
       "util": "npm:util@0.10.3"
